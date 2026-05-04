@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("异步不要用sleep_作业")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8571f9d2ffcb10515e3389593b13ed34f9d44d72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+904106c60dcd9b5afc3b5d2e56d4e2705ee761a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("异步不要用sleep_作业")]
 [assembly: System.Reflection.AssemblyTitleAttribute("异步不要用sleep_作业")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
