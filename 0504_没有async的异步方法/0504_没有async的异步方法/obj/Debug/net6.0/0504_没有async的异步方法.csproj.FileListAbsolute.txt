@@ -1,0 +1,15 @@
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\bin\Debug\net6.0\0504_没有async的异步方法.exe
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\bin\Debug\net6.0\0504_没有async的异步方法.deps.json
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\bin\Debug\net6.0\0504_没有async的异步方法.runtimeconfig.json
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\bin\Debug\net6.0\0504_没有async的异步方法.dll
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\bin\Debug\net6.0\0504_没有async的异步方法.pdb
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\0504_没有async的异步方法.GeneratedMSBuildEditorConfig.editorconfig
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\0504_没有async的异步方法.AssemblyInfoInputs.cache
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\0504_没有async的异步方法.AssemblyInfo.cs
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\0504_没有async的异步方法.csproj.CoreCompileInputs.cache
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\0504_没有async的异步方法.sourcelink.json
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\0504_没有async的异步方法.dll
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\refint\0504_没有async的异步方法.dll
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\0504_没有async的异步方法.pdb
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\0504_没有async的异步方法.genruntimeconfig.cache
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\0504_没有async的异步方法\0504_没有async的异步方法\obj\Debug\net6.0\ref\0504_没有async的异步方法.dll
