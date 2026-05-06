@@ -1,0 +1,15 @@
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\bin\Debug\net6.0\26_0506WhenAll方法学习.exe
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\bin\Debug\net6.0\26_0506WhenAll方法学习.deps.json
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\bin\Debug\net6.0\26_0506WhenAll方法学习.runtimeconfig.json
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\bin\Debug\net6.0\26_0506WhenAll方法学习.dll
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\bin\Debug\net6.0\26_0506WhenAll方法学习.pdb
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\26_0506WhenAll方法学习.GeneratedMSBuildEditorConfig.editorconfig
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\26_0506WhenAll方法学习.AssemblyInfoInputs.cache
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\26_0506WhenAll方法学习.AssemblyInfo.cs
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\26_0506WhenAll方法学习.csproj.CoreCompileInputs.cache
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\26_0506WhenAll方法学习.sourcelink.json
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\26_0506WhenAll方法学习.dll
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\refint\26_0506WhenAll方法学习.dll
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\26_0506WhenAll方法学习.pdb
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\26_0506WhenAll方法学习.genruntimeconfig.cache
+E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0506WhenAll方法学习\26_0506WhenAll方法学习\obj\Debug\net6.0\ref\26_0506WhenAll方法学习.dll
