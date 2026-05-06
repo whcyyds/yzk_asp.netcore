@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("26_0505Cancellation学习")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91744f485458dca9bf45964aba783237c93f7f93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6064e924691175f94d7ed8ac55b90a8b992e5252")]
 [assembly: System.Reflection.AssemblyProductAttribute("26_0505Cancellation学习")]
 [assembly: System.Reflection.AssemblyTitleAttribute("26_0505Cancellation学习")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
