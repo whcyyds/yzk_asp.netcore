@@ -1,0 +1,15 @@
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\bin\Debug\net6.0\26_0505Cancellation学习.exe
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\bin\Debug\net6.0\26_0505Cancellation学习.deps.json
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\bin\Debug\net6.0\26_0505Cancellation学习.runtimeconfig.json
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\bin\Debug\net6.0\26_0505Cancellation学习.dll
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\bin\Debug\net6.0\26_0505Cancellation学习.pdb
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\26_0505Cancellation学习.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\26_0505Cancellation学习.AssemblyInfoInputs.cache
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\26_0505Cancellation学习.AssemblyInfo.cs
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\26_0505Cancellation学习.csproj.CoreCompileInputs.cache
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\26_0505Cancellation学习.sourcelink.json
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\26_0505Cancellation学习.dll
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\refint\26_0505Cancellation学习.dll
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\26_0505Cancellation学习.pdb
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\26_0505Cancellation学习.genruntimeconfig.cache
+D:\Code\yzk_asp.netcore\26_0505Cancellation学习\26_0505Cancellation学习\obj\Debug\net6.0\ref\26_0505Cancellation学习.dll
