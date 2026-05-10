@@ -13,3 +13,18 @@ E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LIN
 E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.pdb
 E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.genruntimeconfig.cache
 E:\A NEW LIFE\杨中科\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\ref\26_0510LINQ常用扩展方法.dll
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\bin\Debug\net6.0\26_0510LINQ常用扩展方法.exe
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\bin\Debug\net6.0\26_0510LINQ常用扩展方法.deps.json
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\bin\Debug\net6.0\26_0510LINQ常用扩展方法.runtimeconfig.json
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\bin\Debug\net6.0\26_0510LINQ常用扩展方法.dll
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\bin\Debug\net6.0\26_0510LINQ常用扩展方法.pdb
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.AssemblyInfoInputs.cache
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.AssemblyInfo.cs
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.csproj.CoreCompileInputs.cache
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.sourcelink.json
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.dll
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\refint\26_0510LINQ常用扩展方法.dll
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.pdb
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\26_0510LINQ常用扩展方法.genruntimeconfig.cache
+D:\Code\yzk_asp.netcore\26_0510LINQ常用扩展方法\26_0510LINQ常用扩展方法\obj\Debug\net6.0\ref\26_0510LINQ常用扩展方法.dll

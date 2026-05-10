@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\A NEW LIFE\\\u6768\u4E2D\u79D1\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\",
+  "WorkspaceRootPath": "D:\\Code\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24303494-ED17-4752-9B1C-5835B8A843DE}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|e:\\a new life\\\u6768\u4E2D\u79D1\\yzk_asp.netcore\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24303494-ED17-4752-9B1C-5835B8A843DE}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D32576FE-9B59-BDD2-0D7C-A25B277AC283}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|d:\\code\\yzk_asp.netcore\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32576FE-9B59-BDD2-0D7C-A25B277AC283}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24303494-ED17-4752-9B1C-5835B8A843DE}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|e:\\a new life\\\u6768\u4E2D\u79D1\\yzk_asp.netcore\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24303494-ED17-4752-9B1C-5835B8A843DE}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D32576FE-9B59-BDD2-0D7C-A25B277AC283}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|d:\\code\\yzk_asp.netcore\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32576FE-9B59-BDD2-0D7C-A25B277AC283}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D32576FE-9B59-BDD2-0D7C-A25B277AC283}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|d:\\code\\yzk_asp.netcore\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D32576FE-9B59-BDD2-0D7C-A25B277AC283}|26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:26_0510linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 282,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\Code\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Dog.cs",
+              "RelativeDocumentMoniker": "26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Dog.cs",
+              "ToolTip": "D:\\Code\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Dog.cs",
+              "RelativeToolTip": "26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T15:05:11.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\A NEW LIFE\\\u6768\u4E2D\u79D1\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Employee.cs",
+              "DocumentMoniker": "D:\\Code\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Employee.cs",
               "RelativeDocumentMoniker": "26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Employee.cs",
-              "ToolTip": "E:\\A NEW LIFE\\\u6768\u4E2D\u79D1\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Employee.cs",
+              "ToolTip": "D:\\Code\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Employee.cs",
               "RelativeToolTip": "26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Employee.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-10T12:01:23.667Z",
               "EditorCaption": ""
@@ -41,11 +62,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\A NEW LIFE\\\u6768\u4E2D\u79D1\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
+              "DocumentMoniker": "D:\\Code\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
               "RelativeDocumentMoniker": "26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
-              "ToolTip": "E:\\A NEW LIFE\\\u6768\u4E2D\u79D1\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs*",
+              "ToolTip": "D:\\Code\\yzk_asp.netcore\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs*",
               "RelativeToolTip": "26_0510LINQ\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-10T12:00:57.798Z",
               "EditorCaption": ""
